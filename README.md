@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ solution](https://your-solution-url.com)
-- Live Site URL: [ live site](https://your-live-site-url.com)
+- Solution URL: [ solution](https://github.com/charlsoluwapelumi/pricing-component)
+- Live Site URL: [ live site](https://sns-charmie-pricing-component.netlify.app/)
 
 ## My process
 
